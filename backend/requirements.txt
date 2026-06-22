@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+numpy
+pillow
+tensorflow
+nibabel
+sqlalchemy
+pydantic
+python-dotenv
+reportlab
+scikit-learn
+xgboost
+lightgbm
+shap
+optuna
+SimpleITK

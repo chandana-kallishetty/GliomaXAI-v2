@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Frontend
+node_modules/
+frontend/node_modules/
+frontend/build/
+
+# Generated outputs
+uploads/
+reports/
+
+# ML models
+*.h5
+*.pth
+*.pt
+*.ckpt
+
+# VS Code
+.vscode/
+
+# Database
+*.db
+*.sqlite
+
+# Ignore all model files
+ml_models/
+
+# Ignore uploads
+uploads/
+
+# Ignore generated heatmaps
+*.jpg
+*.jpeg
+*.png
