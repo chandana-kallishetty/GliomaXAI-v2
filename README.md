@@ -1,16 +1,57 @@
-# gliomaxai_fullstack
+# GliomaXAI
 
-A fullstack project scaffold for the Glioma AI application.
+AI-Powered Brain Tumor Classification and Explainable AI Platform.
 
-## Structure
+## Overview
 
-- `frontend/` - front-end application files and UI components
-- `backend/` - back-end API routes, services, and data logic
-- `ml_models/` - machine learning models and model artifacts
-- `uploads/` - uploaded files and user data storage
-- `reports/` - generated reports and analysis results
-- `docs/` - project documentation and design notes
+GliomaXAI is a full-stack web application that predicts glioma tumors from MRI brain scans and provides explainable AI visualizations to help users understand model decisions.
 
-## Notes
+## Features
 
-This scaffold is ready for adding a React or Vue frontend, a Python/Node backend, and your existing MRI model assets.
+- MRI Brain Scan Upload
+- Glioma Tumor Prediction
+- Explainable AI Heatmaps
+- Confidence Score Visualization
+- Responsive Web Interface
+
+## Tech Stack
+
+### Frontend
+- React.js
+- HTML
+- CSS
+- JavaScript
+
+### Backend
+- Python
+- FastAPI
+
+### Machine Learning
+- TensorFlow
+- Keras
+- CNN-based Classification
+
+## Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### MRI Upload
+![Upload](screenshots/upload.png)
+
+### Prediction Result
+![Prediction](screenshots/prediction.png)
+
+### Heatmap Visualization
+![Heatmap](screenshots/heatmap.png)
+
+## Future Improvements
+
+- Multi-class tumor classification
+- DICOM support
+- Cloud deployment
+- Hospital integration
+
+## Author
+
+Chandana Kallishetty
