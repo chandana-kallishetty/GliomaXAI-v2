@@ -35,4 +35,3 @@ uploads/
 # Ignore generated heatmaps
 *.jpg
 *.jpeg
-*.png
